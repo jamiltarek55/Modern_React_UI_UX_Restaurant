@@ -19,5 +19,4 @@ const MenuItem = ({ title, price, tags }) => (
     </div>
   </div>
 );
-
 export default MenuItem;
