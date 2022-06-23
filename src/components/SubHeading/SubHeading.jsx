@@ -8,5 +8,4 @@ const SubHeading = ({ title }) => (
     <img src={images.spoon} alt="spoon_image" className="spoon__img" />
   </div>
 );
-
 export default SubHeading;
