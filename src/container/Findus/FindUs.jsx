@@ -22,5 +22,4 @@ const FindUs = () => (
     </div>
   </div>
 );
-
 export default FindUs;
